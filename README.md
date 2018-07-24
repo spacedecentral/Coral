@@ -1,6 +1,6 @@
 # Coral
 
-[💬 Chat on Riot](https://riot.im/app/#/room/#spacedecentral-futureforward:matrix.org)
+[💬 Chat on Riot](https://riot.im/app/#/room/#spacedecentral-missions:matrix.org)
 
 Coral is a space mission to design, develop, test, and ultimately demonstrate the use of lunar ISRU equipment to manufacture full-scale lunar infrastructure.
 
