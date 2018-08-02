@@ -27,6 +27,12 @@ Closed - Tasks that have been closed, canceled or deleted.
 
 Epic - Tasks composed of subtasks. The subtasks may be worked on independently or not, depending on its nature.
 
+Good first issue - Task ready to be worked on! Go ahead and comment if you want to take it!
+
 Help Wanted - Tasks open for grabs. If you think you can help with this task, please add a comment saying so.
 
 Research - Tasks that involve primarily research, and result in a document summarizing the research, highlighting the most important findings, descriptions and references.
+
+Subtask - A subtask of one of the Epic tasks.
+
+
