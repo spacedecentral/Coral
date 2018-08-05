@@ -8,7 +8,7 @@ Coral is a space mission to design, develop, test, and ultimately demonstrate th
 ## Task Columns:
 New issues - Where new tasks are placed to be organized at a later time.
 
-Subtasks - Column for all subtasks that haven't been assigned yet (To minimize cluttering). Once assigned to a subtask, please move it to the corresponding column.  
+Epics - Column for all Epic tasks consisting of subtasks (To minimize cluttering). 
 
 Icebox - Tasks that are low in priority or that may be revisited in the future.
 
