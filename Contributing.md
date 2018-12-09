@@ -1,9 +1,9 @@
-# Stakeholders
+# Roles
 
-- **Project Manager**: responsible for aligning task creation with broader program direction through discussion with task manager(s). May comment on tasks.
-- **Task Manager**: responsible for day-to-day interfacing with github. Has authority to create, edit, and close tasks. Has authority to upload and remove files from the repository.
-- **Task Reviewer**: responsible for determining whether or not work submitted by assignee is complete. Has authority to close tasks after successful review. Has authority to upload files for completed tasks to the repository. May comment on tasks.
-- **Assignee**: the individual or working group assigned to and responsible for completing a task. May comment on tasks.
+- **Project Manager**: responsible for ensuring that the project has a focus that the project members agree on and making sure that everyone in the project focuses their work accordingly. May create and comment on tasks.
+- **Task Manager**: responsible for day-to-day interfacing with github. Has authority to create, edit, and close tasks. Has authority to upload reviewed files to the repository. Has authority to remove files from the repository.
+- **Task Technical Reviewer**: responsible for determining whether or not work submitted by assignee is complete within their area of technical expertise. Has authority to close tasks after successful review. Has authority to upload files for completed tasks to the repository. May create and comment on tasks.
+- **Assignee**: the individual or working group assigned to and responsible for completing a task. May create and comment on tasks. May send pull requests.
 # Task Format
 - Clearly defines the deliverable for the task.
 - As needed, clearly states metrics evaluating the quality and completeness of draft deliverables.
