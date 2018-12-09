@@ -1,9 +1,9 @@
 # Roles
 
-- **Project Manager**: responsible for ensuring that the project has a focus that the project members agree on and making sure that everyone in the project focuses their work accordingly. May create and comment on tasks.
-- **Task Manager**: responsible for day-to-day interfacing with github. Has authority to create, edit, and close tasks. Has authority to upload reviewed files to the repository. Has authority to remove files from the repository.
-- **Task Technical Reviewer**: responsible for determining whether or not work submitted by assignee is complete within their area of technical expertise. Has authority to close tasks after successful review. Has authority to upload files for completed tasks to the repository. May create and comment on tasks.
-- **Assignee**: the individual or working group assigned to and responsible for completing a task. May create and comment on tasks. May send pull requests.
+- **Project Manager (PM)**: responsible for ensuring that the project has a focus that the project members agree on and making sure that everyone in the project focuses their work accordingly. May create and comment on tasks.
+- **Task Manager (TM)**: responsible for day-to-day interfacing with github. Has authority to create, edit, and close tasks. Has authority to upload reviewed files to the repository. Has authority to remove files from the repository.
+- **Task Technical Reviewer (TTR)**: responsible for determining whether or not work submitted by assignee is complete within their area of technical expertise. Has authority to close tasks after successful review. Has authority to upload files for completed tasks to the repository. May create and comment on tasks.
+- **Contributor**: the individual or working group assigned to and responsible for completing a task. May create and comment on tasks. May send pull requests.
 # Task Format
 - Clearly defines the deliverable for the task.
 - As needed, clearly states metrics evaluating the quality and completeness of draft deliverables.
@@ -26,20 +26,20 @@
 - **Revisions**: Sets how many revisions of the submitted work will be reviewed by the task manager..
 
 # Task Lifecycle
-1. Task created per format requirements by task manager.
-2. Task assigned to Assignee.
-3. Assignee submits deliverable to task reviewer for review by deadline.
+1. Task created per format requirements by TM.
+2. Task assigned to Contributor.
+3. Contributor submits deliverable to TTR for review by deadline.
 
-Case 1: task deliverable is considered complete by the reviewer and is pulled into the master branch by either the task reviewer or task manager. Task is closed by either the task reviewer or task manager.
+Case 1: task deliverable is considered complete by the TTR and is pulled into the master branch by either the TTR or TM. Task is closed by either the TTR or TM.
   
-Case 2: task is considered incomplete by the reviewer. Task reviewer returns feedback to Assignee and either
-Asks Assignee to complete task or
+Case 2: task is considered incomplete by the TTR. TTR returns feedback to Contributor and either
+Asks Contributor to complete task or
 
-Reassigns task to new Assignee.
+Reassigns task to new Contributor.
 
 4. Late tasks:
-Assignee should inform task manager with as much notice as possible if they believe that the task deadline will not be met.
-Task manager will either revise deadline, change Assignee, or assign more effort to the task in order to the meet the deadline.
+Contributor should inform TM with as much notice as possible if they believe that the task deadline will not be met.
+TM will either revise deadline, change Contributors, or assign more effort to the task in order to the meet the deadline.
 
 # File Management
 - The task manager(s) shall be responsible for file management within Github.
