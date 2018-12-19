@@ -36,6 +36,15 @@ List and relate with each other the organizational units that play roles in busi
 
 [plantuml]
 ....
+left to right direction
+skinparam packageStyle rectangle
+actor :Environmental Test Engineer:
+actor :Flight Controller:
+actor :Payload Operator:
+actor :Solar Simulation Chamber:
+
+rectangle (DellSat-77\nSatellite) {
+left to right direction
 :Environmental Test Engineer: -- (Generate\nelectricity\nfrom\nsolar panaels)
 :Flight Controller: -- (Execute\nHohmann\ntransfer)
 :Payload Operator: -- (Point infraraed\nsensor at target)
@@ -46,8 +55,8 @@ List and relate with each other the organizational units that play roles in busi
 (Get payload\nhealth and status) .> (Send command): <<include>>
 (Send command) <|- (Send stored\ncommand)
 (Send command) <|- (Send real-time\ncommand) 
-
 (Generate\nelectricity\nfrom\nsolar panaels) -- :Solar Simulation Chamber:
+}
 ....
 _Use case diagram illustrating Concept of Operations for DellSat-77 Satellite_.footnote:[Delligatti, L. (2014). SysML distilled. 2nd ed. Addison-Wesley Professional, p.82.]
 
