@@ -32,32 +32,7 @@ List and outline the existing systems and systems to be developed in the future.
 
 List and relate with each other the organizational units that play roles in business operation, systems operation, and their management.
 
-:plantuml-server-url: http://www.plantuml.com/plantuml
-
-[plantuml]
-....
-left to right direction
-skinparam packageStyle rectangle
-actor :Environmental Test Engineer:
-actor :Flight Controller:
-actor :Payload Operator:
-actor :Solar Simulation Chamber:
-
-rectangle (DellSat-77\nSatellite) {
-left to right direction
-:Environmental Test Engineer: -- (Generate\nelectricity\nfrom\nsolar panaels)
-:Flight Controller: -- (Execute\nHohmann\ntransfer)
-:Payload Operator: -- (Point infraraed\nsensor at target)
-:Payload Operator: -- (Get payload\nhealth and status)
-
-(Execute\nHohmann\ntransfer) .> (Send command): <<include>>
-(Point infraraed\nsensor at target) .> (Send command): <<include>>
-(Get payload\nhealth and status) .> (Send command): <<include>>
-(Send command) <|- (Send stored\ncommand)
-(Send command) <|- (Send real-time\ncommand) 
-(Generate\nelectricity\nfrom\nsolar panaels) -- :Solar Simulation Chamber:
-}
-....
+image::http://www.plantuml.com/plantuml/svg/5OrB2i9044Jtda8FaCmow2eGRo0UeEqfJA3dGt_m-ausLTIhnLlDIJsAN6v7POcCKBdkxjqUAIdzvk_XUtp2eDoge_hChIJhnCZWiPKaRUtC-pAnWXnJRXnbV9EZT1d4qa2MteQD34-8lCYNPUwdUaNDe_y0[DellSat 77 Use Case Diagram]
 _Use case diagram illustrating Concept of Operations for DellSat-77 Satellite_.footnote:[Delligatti, L. (2014). SysML distilled. 2nd ed. Addison-Wesley Professional, p.82.]
 
 == Governance
