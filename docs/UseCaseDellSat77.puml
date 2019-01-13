@@ -1,0 +1,21 @@
+left to right direction
+skinparam packageStyle rectangle
+actor :Environmental Test Engineer:
+actor :Flight Controller:
+actor :Payload Operator:
+actor :Solar Simulation Chamber:
+
+rectangle (DellSat-77\nSatellite) {
+left to right direction
+:Environmental Test Engineer: -- (Generate\nelectricity\nfrom\nsolar panaels)
+:Flight Controller: -- (Execute\nHohmann\ntransfer)
+:Payload Operator: -- (Point infraraed\nsensor at target)
+:Payload Operator: -- (Get payload\nhealth and status)
+
+(Execute\nHohmann\ntransfer) .> (Send command): <<include>>
+(Point infraraed\nsensor at target) .> (Send command): <<include>>
+(Get payload\nhealth and status) .> (Send command): <<include>>
+(Send command) <|- (Send stored\ncommand)
+(Send command) <|- (Send real-time\ncommand) 
+(Generate\nelectricity\nfrom\nsolar panaels) -- :Solar Simulation Chamber:
+}
