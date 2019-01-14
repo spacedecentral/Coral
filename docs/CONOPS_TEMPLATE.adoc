@@ -32,7 +32,7 @@ List and outline the existing systems and systems to be developed in the future.
 
 List and relate with each other the organizational units that play roles in business operation, systems operation, and their management.
 
-image::http://www.plantuml.com/plantuml/svg/5OrB2i9044Jtda8FaCmow2eGRo0UeEqfJA3dGt_m-ausLTIhnLlDIJsAN6v7POcCKBdkxjqUAIdzvk_XUtp2eDoge_hChIJhnCZWiPKaRUtC-pAnWXnJRXnbV9EZT1d4qa2MteQD34-8lCYNPUwdUaNDe_y0[DellSat 77 Use Case Diagram]
+image::http://www.plantuml.com/plantuml/svg/bP8zpzCm4CTtVueRco6iZrHLLQLIoaQbC6Ovd4jYzNoEpXT41Nntaa8fBsgZP_BmVxdVsTvbGxKnicDg3Io1XgutQ8AIjv34vNEG0HKZ3EZFs55b5oQOPPIEoQ6tfB0-oEUWIIA98SD7oWO7wO8GwVhcUSVNydqIqyJyXtB22oTiuCD0YfRkGfKO5QeGHyQP1_Oznazpqlr6WDLROgxGofUNMgQJc8DH0LyVRlKK5yeILaUI6OLg8IPl6domIosjfbXBlb8DA4YS2_VlOhUEmnVourpnFlKHHMenHSajQU7-N_aQEQKW1a5QHKLgfb4qJLD00qFjo1ucZsGm_5HgwGdPUa1f81lQE46wPpZmPWkhYYQxJp5EiM8DcqqGpsD3swrRvbgiM01SpF-jmUPR-SkUBUbCT9CUEvMGImkHxcPmhtdf-QAVVCdlRaVIZ95_0000[DellSat 77 Use Case Diagram]
 _Use case diagram illustrating Concept of Operations for DellSat-77 Satellite_.footnote:[Delligatti, L. (2014). SysML distilled. 2nd ed. Addison-Wesley Professional, p.82.]
 
 == Governance
