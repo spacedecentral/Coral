@@ -6,10 +6,11 @@ Coral is a space mission to design, develop, test, and ultimately demonstrate th
 
 ## Project Contents
 
-- `research/` - directory for Coral-related research.
+- `docs/` - directory for Coral documentation.
 - `mission/` - directory for official mission statement and mission objectives of Coral.
-- `system/` - directory for system model of Coral.
+- `research/` - directory for Coral-related research.
 - `src/` - directory for source code, to be directly compiled (or manufactured) into flight hardware.
+- `system/` - directory for system model of Coral.
 - `CONTRIBUTING.md` - (WIP) beginner's guide for contributing to the Coral project.
 
 ## Task Columns
