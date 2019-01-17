@@ -1,37 +1,37 @@
 = ConOps
 :toc:
 
-The ConOps, at the organization level, addresses the leadership's intended way of operating the organization. It may refer to the use of one or more systems, as black boxes, to forward the organization's goals and objectives. The ConOps document describes the organization's assumptions or intent in regard to an overall operation or series of operations of the business with using the system to be developed, existing systems, and possible future systems. This document is frequently embodied in long-range strategic plans and annual operational plans. The ConOps document serves as a basis for the organization to direct the overall characteristics of the future business and systems, for the project to understand its background, and for the users of this International Standard to implement the stakeholder requirements elicitation. The ConOps document should include the following information items. 
+_The ConOps, at the organization level, addresses the leadership's intended way of operating the organization. It may refer to the use of one or more systems, as black boxes, to forward the organization's goals and objectives. The ConOps document describes the organization's assumptions or intent in regard to an overall operation or series of operations of the business with using the system to be developed, existing systems, and possible future systems. This document is frequently embodied in long-range strategic plans and annual operational plans. The ConOps document serves as a basis for the organization to direct the overall characteristics of the future business and systems, for the project to understand its background, and for the users of this International Standard to implement the stakeholder requirements elicitation. The ConOps document should include the following information items._
 
 == Purpose
 
-Describe the purpose of this document by describing the current status of the organization, the goal of the long-range strategic plan, and gaps between them.
+_Describe the purpose of this document by describing the current status of the organization, the goal of the long-range strategic plan, and gaps between them._
 
 == Scope
 
-Describe the scope of this document by specifying the organization's business domains to which it applies.
+_Describe the scope of this document by specifying the organization's business domains to which it applies._
 
 == Strategic plan
 
-Describe the long-range strategic plan for the organization's business and resultant systems. This includes description when the current business of the organization should be changed and what systems should be implemented and operated. The plan may contain options with priority.
+_Describe the long-range strategic plan for the organization's business and resultant systems. This includes description when the current business of the organization should be changed and what systems should be implemented and operated. The plan may contain options with priority._
 
 == Effectiveness
 
-Estimate the effectiveness expected by implementing the plan.
+_Estimate the effectiveness expected by implementing the plan._
 
 == Overall operation
 
 === Context
 
-Describe an overall view for the organization's business, which business function or organizational unit is covered by which existing systems, and which is to be covered by planned systems. For more detailed description, major data resources and flows may be mapped onto the view.
+_Describe an overall view for the organization's business, which business function or organizational unit is covered by which existing systems, and which is to be covered by planned systems. For more detailed description, major data resources and flows may be mapped onto the view._
 
 === Systems
 
-List and outline the existing systems and systems to be developed in the future.
+_List and outline the existing systems and systems to be developed in the future._
 
 === Organizational Unit
 
-List and relate with each other the organizational units that play roles in business operation, systems operation, and their management.
+_List and relate with each other the organizational units that play roles in business operation, systems operation, and their management._
 
 image::http://www.plantuml.com/plantuml/svg/bP8zpzCm4CTtVueRco6iZrHLLQLIoaQbC6Ovd4jYzNoEpXT41Nntaa8fBsgZP_BmVxdVsTvbGxKnicDg3Io1XgutQ8AIjv34vNEG0HKZ3EZFs55b5oQOPPIEoQ6tfB0-oEUWIIA98SD7oWO7wO8GwVhcUSVNydqIqyJyXtB22oTiuCD0YfRkGfKO5QeGHyQP1_Oznazpqlr6WDLROgxGofUNMgQJc8DH0LyVRlKK5yeILaUI6OLg8IPl6domIosjfbXBlb8DA4YS2_VlOhUEmnVourpnFlKHHMenHSajQU7-N_aQEQKW1a5QHKLgfb4qJLD00qFjo1ucZsGm_5HgwGdPUa1f81lQE46wPpZmPWkhYYQxJp5EiM8DcqqGpsD3swrRvbgiM01SpF-jmUPR-SkUBUbCT9CUEvMGImkHxcPmhtdf-QAVVCdlRaVIZ95_0000[DellSat 77 Use Case Diagram]
 
@@ -41,34 +41,35 @@ _Use case diagram illustrating Concept of Operations for DellSat-77 Satellite_.f
 
 === Governance policies
 
-Describe policies or principles which will govern any critical business and technological decisions in implementing the plan.
+_Describe policies or principles which will govern any critical business and technological decisions in implementing the plan._
 
 === Organization
 
-Describe the organization unit that is responsible for the governance, and describe policies on organizational structure and human resource in system development.
+_Describe the organization unit that is responsible for the governance, and describe policies on organizational structure and human resource in system development._
 
 === Investment plan
 
-Describe plans on possible investment for the development of systems and depict how the policies should be managed.
+_Describe plans on possible investment for the development of systems and depict how the policies should be managed._
 
 === Information asset management
 
-Describe policies of how information assets are managed and define which organizational unit is responsible for the management.
+_Describe policies of how information assets are managed and define which organizational unit is responsible for the management._
 
 === Security
 
-Describe policies on security.
+_Describe policies on security._
 
 === Business continuity plan
 
-Describe policies on business continuity plan. 
+_Describe policies on business continuity plan._
 
 === Compliance
 
-Describe policies on regal and regulatory compliance. 
+_Describe policies on regal and regulatory compliance._
 
 
 '''
+
 ===== Attribution
 
 This document is adapted from the ISO/IEC/IEEE 29148:2011 _International Standard - Systems and software engineering -- Life cycle processes --Requirements engineering_, available at https://standards.ieee.org/standard/29148-2011.html.
