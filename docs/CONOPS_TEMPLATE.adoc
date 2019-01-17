@@ -1,5 +1,34 @@
-= ConOps
-:toc:
+:toc: macro
+
+[cols="1,1,1,1,1,1"]
+|===
+6+^s|Title
+6+^|<title>
+
+1+s|Document Type
+2+|Conops
+1+s|Originating Department
+2+|Systems
+
+s|Document ID
+|<document id>
+s|Status
+|<status>
+s|Created
+|<dd/mm/yyyy>
+
+s|Authored by
+|<author>
+s|Reviewed by
+|<reviewer>
+s|Approved by
+|<approver>
+
+|===
+
+toc::[]
+
+<<<
 
 _The ConOps, at the organization level, addresses the leadership's intended way of operating the organization. It may refer to the use of one or more systems, as black boxes, to forward the organization's goals and objectives. The ConOps document describes the organization's assumptions or intent in regard to an overall operation or series of operations of the business with using the system to be developed, existing systems, and possible future systems. This document is frequently embodied in long-range strategic plans and annual operational plans. The ConOps document serves as a basis for the organization to direct the overall characteristics of the future business and systems, for the project to understand its background, and for the users of this International Standard to implement the stakeholder requirements elicitation. The ConOps document should include the following information items._
 
