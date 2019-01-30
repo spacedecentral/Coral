@@ -1,0 +1,4 @@
+before_install:
+ - gem install concurrent-ruby
+script:
+ - cd docs; make
