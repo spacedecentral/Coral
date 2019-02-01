@@ -62,9 +62,9 @@ _List and outline the existing systems and systems to be developed in the future
 
 _List and relate with each other the organizational units that play roles in business operation, systems operation, and their management._
 
-image::http://www.plantuml.com/plantuml/png/bP8zpzCm4CTtVueRco6iZrHLLQLIoaQbC6Ovd4jYzNoEpXT41Nntaa8fBsgZP_BmVxdVsTvbGxKnicDg3Io1XgutQ8AIjv34vNEG0HKZ3EZFs55b5oQOPPIEoQ6tfB0-oEUWIIA98SD7oWO7wO8GwVhcUSVNydqIqyJyXtB22oTiuCD0YfRkGfKO5QeGHyQP1_Oznazpqlr6WDLROgxGofUNMgQJc8DH0LyVRlKK5yeILaUI6OLg8IPl6domIosjfbXBlb8DA4YS2_VlOhUEmnVourpnFlKHHMenHSajQU7-N_aQEQKW1a5QHKLgfb4qJLD00qFjo1ucZsGm_5HgwGdPUa1f81lQE46wPpZmPWkhYYQxJp5EiM8DcqqGpsD3swrRvbgiM01SpF-jmUPR-SkUBUbCT9CUEvMGImkHxcPmhtdf-QAVVCdlRaVIZ95_0000[DellSat 77 Use Case Diagram]
+image::http://www.plantuml.com/plantuml/png/TP11IyD048Nl-HLp4aLwIDfJ2Q5Y4NkeYj5RBiFkr2nkPilifE2_Dyl6rajl0_k-zpvs4nL5ny4NdWuA6a3SLwzWdP1H5xX0eq5WNTTJyflwu2r9qtJy58IYGajoSeRMW16ml9f-FPAW1icvwdhhj0jREgBeGAmvlYp6I0OZmUsMb8m2ieLzOAT1pYO9ZU0OFjkEK-0H6ItUfOhHb9UEDmadPmaozxU9YWb-8PIEtmazVBY1Phgwq0zYUdVAmFpwps-MIe8Txz6nubJwJEYrXvkEMpoG_a0u95rgKM6tcrjMHO4bB1PPrfHmlsZIz1hgsh7newMcAR3AaUfyBS_NQiBIcNviGsp7mVy2[FireSat Use Case Diagram]
 
-_Use case diagram illustrating Concept of Operations for DellSat-77 Satellite_.footnote:[Delligatti, L. (2014). SysML distilled. 2nd ed. Addison-Wesley Professional, p.82.]
+_Use case diagram illustrating Concept of Operations for FireSat Mission_.footnote:[Friedenthal, S. & Oster, C. (2017). Architecting Spacecraft with SysML: A Model-based Systems Engineering Approach, p.42.]
 
 == Governance
 
