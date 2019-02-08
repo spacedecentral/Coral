@@ -1,0 +1,112 @@
+:toc: macro
+
+[cols="1,1,1,1,1,1"]
+|===
+6+^s|Title
+6+^|<title>
+
+1+s|Document Type
+2+|Conops
+1+s|Originating Department
+2+|Systems
+
+s|Document ID
+|<document id>
+s|Status
+|<status>
+s|Created
+|<dd/mm/yyyy>
+
+s|Authored by
+|<author>
+s|Reviewed by
+|<reviewer>
+s|Approved by
+|<approver>
+
+|===
+
+toc::[]
+
+<<<
+
+_The ConOps, at the organization level, addresses the leadership's intended way of operating the organization. It may refer to the use of one or more systems, as black boxes, to forward the organization's goals and objectives. The ConOps document describes the organization's assumptions or intent in regard to an overall operation or series of operations of the business with using the system to be developed, existing systems, and possible future systems. This document is frequently embodied in long-range strategic plans and annual operational plans. The ConOps document serves as a basis for the organization to direct the overall characteristics of the future business and systems, for the project to understand its background, and for the users of this International Standard to implement the stakeholder requirements elicitation. The ConOps document should include the following information items._
+
+== Purpose
+
+_Describe the purpose of this document by describing the current status of the organization, the goal of the long-range strategic plan, and gaps between them._
+
+== Scope
+
+_Describe the scope of this document by specifying the organization's business domains to which it applies._
+
+== Strategic plan
+
+_Describe the long-range strategic plan for the organization's business and resultant systems. This includes description when the current business of the organization should be changed and what systems should be implemented and operated. The plan may contain options with priority._
+
+== Effectiveness
+
+_Estimate the effectiveness expected by implementing the plan._
+
+== Overall operation
+
+=== Context
+
+_Describe an overall view for the organization's business, which business function or organizational unit is covered by which existing systems, and which is to be covered by planned systems. For more detailed description, major data resources and flows may be mapped onto the view._
+
+=== Systems
+
+_List and outline the existing systems and systems to be developed in the future._
+
+=== Organizational Unit
+
+_List and relate with each other the organizational units that play roles in business operation, systems operation, and their management._
+
+image::http://www.plantuml.com/plantuml/png/TP11IyD048Nl-HLp4aLwIDfJ2Q5Y4NkeYj5RBiFkr2nkPilifE2_Dyl6rajl0_k-zpvs4nL5ny4NdWuA6a3SLwzWdP1H5xX0eq5WNTTJyflwu2r9qtJy58IYGajoSeRMW16ml9f-FPAW1icvwdhhj0jREgBeGAmvlYp6I0OZmUsMb8m2ieLzOAT1pYO9ZU0OFjkEK-0H6ItUfOhHb9UEDmadPmaozxU9YWb-8PIEtmazVBY1Phgwq0zYUdVAmFpwps-MIe8Txz6nubJwJEYrXvkEMpoG_a0u95rgKM6tcrjMHO4bB1PPrfHmlsZIz1hgsh7newMcAR3AaUfyBS_NQiBIcNviGsp7mVy2[FireSat Use Case Diagram]
+
+_Use case diagram illustrating Concept of Operations for FireSat Mission_.footnote:[Friedenthal, S. & Oster, C. (2017). Architecting Spacecraft with SysML: A Model-based Systems Engineering Approach, p.42.]
+
+== Governance
+
+=== Governance policies
+
+_Describe policies or principles which will govern any critical business and technological decisions in implementing the plan._
+
+=== Organization
+
+_Describe the organization unit that is responsible for the governance, and describe policies on organizational structure and human resource in system development._
+
+=== Investment plan
+
+_Describe plans on possible investment for the development of systems and depict how the policies should be managed._
+
+=== Information asset management
+
+_Describe policies of how information assets are managed and define which organizational unit is responsible for the management._
+
+=== Security
+
+_Describe policies on security._
+
+=== Business continuity plan
+
+_Describe policies on business continuity plan._
+
+=== Compliance
+
+_Describe policies on regal and regulatory compliance._
+
+
+'''
+
+===== Attribution
+
+This document is adapted from the ISO/IEC/IEEE 29148:2011 _International Standard - Systems and software engineering -- Life cycle processes --Requirements engineering_, available at https://standards.ieee.org/standard/29148-2011.html.
+
+===== Copyright (C) 2018
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program.  If not, see http://www.gnu.org/licenses/.

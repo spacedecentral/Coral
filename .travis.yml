@@ -1,0 +1,5 @@
+before_install:
+ - gem install concurrent-ruby
+ - gem install asciidoctor-pdf --pre
+script:
+ - cd docs; make
